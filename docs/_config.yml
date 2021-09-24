@@ -5,3 +5,5 @@ url: "https://computerdiscuss.github.io" #
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
+
+<link rel="shortcut icon" href="/logo.ico" type="logo/logo-icon">
