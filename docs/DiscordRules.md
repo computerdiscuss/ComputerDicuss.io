@@ -1,5 +1,5 @@
 ---
-title: Discord群规
+title: Discord 群规
 nav_order: 3
 ---
 
