@@ -1,5 +1,5 @@
 ---
-title: 电脑讨论与分享区-多功能-机器人
+title: 多功能-机器人
 nav_order: 4
 ---
 
@@ -11,33 +11,21 @@ nav_order: 4
 减少机器人在群里
 优化群的结构
 
-## 目标进度
---系统建设--
-- [√] [基础建设]
-- [√] [表情系统]
-- [ ] [网页管理系统]
-- [ ] [身份组管理系统]
-- [ ] [玩家资料变化系统]
-- [ ] [关键字侦测系统]
-- [ ] [定时通知系统]
-- [ ] [公告系统]
+\-表情指令-
+| 指令 | 功能 |
+|----|----|
+| /sticker | 表情 |
+| /list_sticker | 表情列表 |
+| /add_sticker | 增加表情 |
+| /rename_sticker | 重命名表情 |
+| /remove_sticker | 移除表情 |
 
---优化系统--
-- [ ] [美化指令系统]
-- [ ] [汉化]
-- [ ] [优化系统使用资源]
+例子:
 
-## 安装方法
+- /sticker (name)
+- /list_sticker
+- /add_sticker (NAME) (URL)
+- /rename_sticker (OLD_NAME) (NEW-NAME)
+- /remove_sticker (NAME)
 
---系统前置程序要求--
-- [ ] [Node.js](https://nodejs.org/zh-cn/) [最低版本：16.9.1] 
-- [ ] [Git](https://gitforwindows.org/)[最低版本：2.33.0]
-
-
-```
-git clone https://gitlab.com/kelvinchin12070811/cdasa_dc_bot.git
-npm -g install yarn
-yarn install
-yarn build
-node ./build/index.js
-```
+(NAME=名字) (URL=表情网址)
