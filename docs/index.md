@@ -1,13 +1,9 @@
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 电脑讨论与分享区
 
-- Bulleted
-- List
+![alt text](https://github.com/computerdiscuss/ComputerDicuss.io/blob/main/docs/11080499_954719721225450_7938736100747568296_o%20(1).jpg)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+- [Facebook](https://www.facebook.com/groups/computerdiscuss)
+- [Discord](https://discord.gg/eFFx5zDm8R)
+
