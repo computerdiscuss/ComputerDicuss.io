@@ -1,8 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
-.
+
 title: 电脑讨论与分享区
-description: 电脑讨论与分享区
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://computerdiscuss.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Color scheme supports "light" (default) and "dark"
