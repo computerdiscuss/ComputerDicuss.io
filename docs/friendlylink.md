@@ -5,7 +5,7 @@ nav_order: 5
 
 # Facebook
 
-<iframe src="https://www.facebook.com/groups/computerdiscuss/" width="100%" height="400" frameborder="0"></iframe>
+<iframe src="https://www.facebook.com/plugins/group.php?href=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fcomputerdiscuss&width=280&show_metadata=false&height=239&appId" width="280" height="239" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 [Link button](https://www.facebook.com/groups/computerdiscuss){: .btn .btn-blue }
 
