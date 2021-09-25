@@ -20,7 +20,7 @@ nav_order: 3
  - 模糊标题
  - 恶意私/PM（买卖东西除外）. 根据上述规则，“禁止，避免之行为”。
 
-<div class="p-2 pl-6 border-l-8 bg-yellow-600 bg-opacity-20 border-yellow-500">
+<div class="p-2 pl-6 my-4 border-l-8 bg-yellow-600 bg-opacity-20 border-yellow-500">
     <div style="display: flex; gap: 10px;">
         <span class="material-icons" style="font-size: 30px;">warning</span>
         <h2 class="m-0 mb-4">注意</h2>
