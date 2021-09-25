@@ -21,9 +21,9 @@ nav_order: 3
  - 恶意私/PM（买卖东西除外）. 根据上述规则，“禁止，避免之行为”。
 
 <div class="p-2 pl-6 border-l-8 bg-yellow-600 bg-opacity-20 border-yellow-500">
-    <div class="flex-initial" style="gap: 20px;">
+    <div style="display: flex; gap: 10px;">
         <span class="material-icons">warning</span>
-        <h3>注意</h3>
+        <h3 class="m-0">注意</h3>
     </div>
 
     为了我们的群有一个 和平 礼貌 尊重 自重 的群，现在进入本群需要验证手机号，不然将没办法发出任何信息（也可以保护你的账号不被盗）
