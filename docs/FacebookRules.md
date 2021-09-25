@@ -6,7 +6,7 @@ nav_order: 2
 # 请在发帖之前先看一下
 
 最新更动于 30.08.2020
-{: float-right md:float-none }
+{: .float-right .md:float-none }
 
 ## 完全禁止
  1. 盈利性质的link/帖
