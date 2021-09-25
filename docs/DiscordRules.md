@@ -20,8 +20,13 @@ nav_order: 3
  - 模糊标题
  - 恶意私/PM（买卖东西除外）. 根据上述规则，“禁止，避免之行为”。
 
+<div class="p-2 pl-6 my-4 border-l-8 bg-yellow-600 bg-opacity-20 border-yellow-500">
+    <div style="display: flex; gap: 10px;">
+        <span class="material-icons text-2xl">warning</span>
+        <h2 class="m-0 mb-4">注意</h2>
+    </div>
 
-注：为了我们的群有一个 和平 礼貌 尊重 自重 的群，现在进入本群需要验证手机号，不然将没办法发出任何信息，（也可以保护你的账号不被盗）
-{: .p-2 .pl-6 .border-l-8 .bg-yellow-600 .bg-opacity-20 .border-yellow-500 }
+    为了我们的群有一个和平，礼貌，尊重与自重的环境，现在进入本群需要验证手机号，不然将没办法发出任何信息（也可以保护你的账号不被盗）
+</div>
 
 ## 社区创建日期：6日 11月 2020年
