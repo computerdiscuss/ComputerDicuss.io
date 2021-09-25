@@ -22,7 +22,7 @@ nav_order: 3
 
 <div class="p-2 pl-6 border-l-8 bg-yellow-600 bg-opacity-20 border-yellow-500">
     <div style="display: flex; gap: 10px;">
-        <span class="material-icons">warning</span>
+        <span class="material-icons" style="font-size: 30px;">warning</span>
         <h3 class="m-0">注意</h3>
     </div>
 
