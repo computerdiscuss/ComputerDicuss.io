@@ -21,8 +21,14 @@ nav_order: 2
 
 以上触犯都是ban，本群不留底，不解释，并且三个月内的新账号无法发帖
 
-注：如果发现ban错了，请主动告知管理员並直接附上理由
-{: .p-2 .pl-6 .border-l-8 .bg-yellow-600 .bg-opacity-20 .border-yellow-500 }
+<div class="p-2 pl-6 my-4 border-l-8 bg-yellow-600 bg-opacity-20 border-yellow-500">
+    <div style="display: flex; gap: 10px;">
+        <span class="material-icons text-2xl">warning</span>
+        <h2 class="m-0 mb-4">注意</h2>
+    </div>
+
+    如果发现ban错了，请主动告知管理员並直接附上理由
+</div>
 
 ## 也请尽量避免
  1. 模糊标题
@@ -30,8 +36,14 @@ nav_order: 2
  3. 私/PM（买卖东西除外）
  4. 还没有看这个就问问题：[e起学习资源区](http://www.bit.ly/newxinzai-index)
 
-注：如果在別的群组已经解决了问题，可以放一个\[已解决\]
-{: .p-2 .pl-6 .border-l-8 .bg-yellow-600 .bg-opacity-20 .border-yellow-500 }
+<div class="p-2 pl-6 my-4 border-l-8 bg-blue-600 bg-opacity-20 border-blue-500">
+    <div style="display: flex; gap: 10px;">
+        <span class="material-icons text-2xl">info</span>
+        <h2 class="m-0 mb-4">提示</h2>
+    </div>
+
+    如果在別的群组已经解决了问题，可以放一个\[已解决\]
+</div>
 
 # 买卖需知
  1. 不要顶帖！不要灌水！不要放无关电脑或电子类的东西！
