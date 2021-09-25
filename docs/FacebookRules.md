@@ -6,7 +6,7 @@ nav_order: 2
 # 请在发帖之前先看一下
 
 最新更动于 30.08.2020
-{: .float-right .md:float-none }
+{: .float-none .md:float-right }
 
 ## 完全禁止
  1. 盈利性质的link/帖
@@ -21,7 +21,7 @@ nav_order: 2
 
 以上触犯都是ban，本群不留底，不解释，并且三个月内的新账号无法发帖
 
-注：如果发现ban错了，请主动告知並直接附上理由
+注：如果发现ban错了，请主动告知管理员並直接附上理由
 {: .p-2 .pl-6 .border-l-8 .bg-yellow-600 .bg-opacity-20 .border-yellow-500 }
 
 ## 也请尽量避免
