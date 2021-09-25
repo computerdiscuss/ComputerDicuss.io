@@ -5,7 +5,10 @@ nav_order: 5
 
 # Facebook
 
-<iframe src="https://www.facebook.com/groups/computerdiscuss/" width="100%" height="400" frameborder="0"></iframe>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_CN/sdk.js#xfbml=1&version=v12.0" nonce="duqNcBXm"></script>
+
+<div class="fb-group" data-href="https://www.facebook.com/groups/computerdiscuss" data-width="280" data-show-metadata="false"><blockquote cite="https://www.facebook.com/groups/computerdiscuss" class="fb-xfbml-parse-ignore">电脑讨论与分享区</blockquote></div>
 
 [Link button](https://www.facebook.com/groups/computerdiscuss){: .btn .btn-blue }
 
@@ -14,5 +17,5 @@ nav_order: 5
 
 <iframe src="https://discord.com/widget?id=774154428093169684&amp;theme=dark" allowtransparency="true" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" width="100%" height="400" frameborder="0"></iframe>
 
-[Link button](https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2FU5FyhS7CPA%3Ffbclid%3DIwAR3YkmhnfKva3N04jelfgMuDbHQ2Rs6PqfhHYQAkynj1iakvZ7vUhTJBlrA&h=AT1uAxP6GyszRp6CEp_0FRITGWztP-W2xcDPJMB1FkHEcY8BCl17TP2XbyQZdpvyOq8aJfhU8M2PL_CCSMx21vwIwdWNxYxeOveJ8Ii-6UxVSz5PeqlQQ-kLda-t5RGEqObv&__tn__=-UK-R&c[0]=AT1oASZqlMmDOHxv9bhgiH2XDLNszHKQaUqj6xlm99ObjgRnhxA-34QvMDM242k6OBrl8gcT5RLKD5qVzeT3aUy4dCJl2k9qq0mlbYxuuw0mYTar6ISl3GbsngRaTQSCKH4fQp6jPz5ALDrYesLg-DF3TLnAVm8rDD8){: .btn .btn-purple }
+[Link button](https://discord.com/invite/U5FyhS7CPA?fbclid=IwAR3Mt7R1DVEV7O0X0t3ecZoaCH4Y8eZcNz_OJmvrbzLj2KiWU3uQrporWY0){: .btn .btn-purple }
 
