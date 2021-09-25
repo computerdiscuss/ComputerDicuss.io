@@ -5,7 +5,10 @@ nav_order: 5
 
 # Facebook
 
-<iframe src="https://www.facebook.com/plugins/group.php?href=https%3A%2F%2Fwww.facebook.com%2Fgroups%2Fcomputerdiscuss&width=280&show_metadata=false&height=239&appId" width="280" height="239" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_CN/sdk.js#xfbml=1&version=v12.0" nonce="duqNcBXm"></script>
+
+<div class="fb-group" data-href="https://www.facebook.com/groups/computerdiscuss" data-width="280" data-show-metadata="false"><blockquote cite="https://www.facebook.com/groups/computerdiscuss" class="fb-xfbml-parse-ignore">电脑讨论与分享区</blockquote></div>
 
 [Link button](https://www.facebook.com/groups/computerdiscuss){: .btn .btn-blue }
 
