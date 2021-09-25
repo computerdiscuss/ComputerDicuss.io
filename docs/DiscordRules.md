@@ -2,7 +2,6 @@
 title: Discord 群规
 nav_order: 3
 ---
-{% include header.html %}
 
 # 请各位都保持著 礼貌，尊重，自重
  - 请尊重群组裡的所有人
