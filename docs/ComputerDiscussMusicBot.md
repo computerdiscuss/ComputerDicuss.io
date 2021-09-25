@@ -13,7 +13,7 @@ nav_order: 4
 |`nowplaying` | - 显示当前正在播放的歌曲|
 |`play <title/URL/subcommand>` | - 播放提供的歌曲|
 |`playlists` | - 显示可用的播放列表|
-|`queue [pagenum]` | - 显示当前队列||
+|`queue [pagenum]` | - 显示当前队列|
 |`remove <position/ALL>` | - 从队列中删除一首歌曲|
 |`search <query>` | - 在 Youtube 中搜索提供的查询|
 |`scsearch <query>` | - 在 Soundcloud 中搜索提供的查询|
