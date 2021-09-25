@@ -4,6 +4,9 @@ nav_order: 5
 ---
 
 # Facebook
+
+<iframe src="https://www.facebook.com/groups/computerdiscuss/members/admins" allowtransparency="true" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" width="100%" height="400" frameborder="0"></iframe>
+
 [Link button](https://www.facebook.com/groups/computerdiscuss){: .btn .btn-blue }
 
 # Discord
