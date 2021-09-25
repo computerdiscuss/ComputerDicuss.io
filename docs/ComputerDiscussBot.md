@@ -15,10 +15,10 @@ nav_order: 4
 
 |指令           |关键字            |功能 |
 |:------------- |:------------------|:---------|
-|/sticker       |(NAME)             |表情       |
-|/add_sticker   |(NAME) (URL)       |增加表情   |
-|/rename_sticker|(NAME) (NAME)      |重命名表情 |
-|/remove_sticker|(NAME)             |移除表情   |
-|/list_sticker  |                   |表情列表   |
+|/sticker       |`(NAME)`           |表情|
+|/add_sticker   |`(NAME)` `(URL)`   |增加表情|
+|/rename_sticker|`(NAME)` `(NAME)`  |重命名表情|
+|/remove_sticker|`(NAME)`           |移除表情|
+|/list_sticker  |                   |表情列表|
 
 (NAME=名字) (URL=表情网址)  
